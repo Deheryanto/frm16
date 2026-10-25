@@ -1,0 +1,21 @@
+# Build directory
+build/
+bin/
+lib/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+frmrun
+frmas
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled binary
+*.bin
